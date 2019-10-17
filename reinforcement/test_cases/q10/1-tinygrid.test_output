@@ -1,0 +1,71 @@
+==================== Iteration 0 ====================
+Q-Values at iteration 0 for action 'west' are NOT correct.   Student solution:
+	q_values_k_0_action_west: """
+           illegal
+           illegal
+           illegal
+"""
+
+   Correct solution:
+	q_values_k_0_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+Q-Values at iteration 0 for action 'exit' are NOT correct.   Student solution:
+	q_values_k_0_action_exit: """
+           illegal
+           illegal
+           illegal
+"""
+
+   Correct solution:
+	q_values_k_0_action_exit: """
+            0.0000
+           illegal
+            0.0000
+"""
+
+Q-Values at iteration 0 for action 'south' are NOT correct.   Student solution:
+	q_values_k_0_action_south: """
+           illegal
+           illegal
+           illegal
+"""
+
+   Correct solution:
+	q_values_k_0_action_south: """
+           illegal
+            0.0000
+           illegal
+"""
+
+Q-Values at iteration 0 for action 'north' are NOT correct.   Student solution:
+	q_values_k_0_action_north: """
+           illegal
+           illegal
+           illegal
+"""
+
+   Correct solution:
+	q_values_k_0_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+Q-Values at iteration 0 for action 'east' are NOT correct.   Student solution:
+	q_values_k_0_action_east: """
+           illegal
+           illegal
+           illegal
+"""
+
+   Correct solution:
+	q_values_k_0_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
