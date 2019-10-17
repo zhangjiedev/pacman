@@ -21,3 +21,4 @@ https://inst.eecs.berkeley.edu/~cs188/su19/project4/
 A neural network to classify digits, and more!
 https://inst.eecs.berkeley.edu/~cs188/su19/project5/
 
+Contributors: Ke Xu(https://github.com/kxu9gh), Jie Zhang(https://github.com/zhangjiedev)
